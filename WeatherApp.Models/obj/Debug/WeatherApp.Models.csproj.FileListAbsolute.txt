@@ -1,0 +1,9 @@
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\bin\Debug\WeatherApp.Models.dll
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\bin\Debug\WeatherApp.Models.pdb
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\obj\Debug\WeatherApp.Models.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\obj\Debug\WeatherApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\obj\Debug\WeatherApp.Models.csproj.CopyComplete
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\obj\Debug\WeatherApp.Models.dll
+C:\Users\Асанали\source\repos\WeatherApp\WeatherApp.Models\obj\Debug\WeatherApp.Models.pdb
